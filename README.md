@@ -22,6 +22,7 @@
 - **Стек:** React, TypeScript, CSS Modules, Storybook, Playwright
 - **Что внутри:** основные элементы формы: кнопки, поля ввода, селекты
 - **Инженерия:** строгая типизация, e2e-тесты, a11y-проверки
+- 🔗 ([Документация (Storybook)]( https://johndaveyharris.github.io/dt-ui-kit/))
 
 ## Технический стек
 
